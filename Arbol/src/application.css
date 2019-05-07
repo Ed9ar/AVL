@@ -1,0 +1,52 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+.pane{
+	-fx-background-color:#cccccc;
+}
+
+
+
+
+.btn1{
+    -fx-background-color:#EDCCBA;
+}
+
+.btn2{
+    -fx-background-color:#EDCCBA;
+}
+
+.balancear {
+	-fx-background-color:#EDCCBA;
+}
+
+.text-field {
+ 	-fx-width: 100%;
+ 	-fx-border-width:2px;
+ 	-fx-border-style:solid;
+ 	-fx-border-color:#aaa;
+
+
+ 	-fx-border-radius: 4px;
+ 	-fx-margin: 8px 0;
+ 	-fx-outline: none;
+ 	-fx-padding: 8px;
+ 	-fx-box-sizing: border-box;
+ 	-fx-transition: .8s;
+}
+
+.text-field:focus {
+ 	-fx-border-color:dodgerBlue;
+ 	-fx-box-shadow: 8px solid; -fx-border-color: dodgerBlue;
+}
+
+.label1{
+	-fx-font-family: Roboto; -fx-font-size: 15px;
+}
+
+.label2{
+	-fx-font-family: Roboto; -fx-font-size: 15px;
+}
+
+
+
